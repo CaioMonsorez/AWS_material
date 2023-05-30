@@ -1,0 +1,3 @@
+https://learn.cantrill.io/courses
+https://explore.skillbuilder.aws/learn
+https://docs.aws.amazon.com/pt_br/
